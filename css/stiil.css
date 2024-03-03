@@ -67,8 +67,14 @@ li {
     font-size: 20px;
 }
 
+a {
+    color: green;
+}
+
 hr {
-    border-color: #9d8710;
+    border: none;
+    height: 3px;
+    background-color: #9d8710;
 }
 
 footer {
