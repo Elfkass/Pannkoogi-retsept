@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+body {
+    background-color: #ebcf3073;
+    color: #9d8710;
+    font-family: "Dancing Script", cursive;
+    font-size: 25px;
+}
+
+h1 {
+    font-family: "Playfair Display", serif;
+    text-align: center;
+    font-size: 45px;
+}
+
+h2 {
+    font-size: 35px;
+    text-align: center;
+}
+
+img {
+    width: 600px;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 1cap;
+    margin-top: 1cap;
+    border-radius: 20%;
+}
+
+.koostisosad {
+    margin: 0 auto;
+    width: 50%;
+    margin-bottom: 1cap;
+}
+
+.tabel {
+    border: 1px solid black;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+}
+
+.valmistamine {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.list {
+    width: 50%;
+    margin: 0 auto;
+    text-align: left;
+    margin-bottom: 1cap;
+    padding-inline-start: 0px;
+}
+
+li {
+    padding: 8px;
+}
+
+.allikas {
+    text-align: center;
+    font-size: 20px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 20px;
+}
